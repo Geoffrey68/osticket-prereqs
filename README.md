@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [How to Enable CGI in Windows 10](https://clipchamp.com/watch/kNR5EU1j3T7)
 
 <h2>Environments and Technologies Used</h2>
 
