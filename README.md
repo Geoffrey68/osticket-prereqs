@@ -6,9 +6,6 @@
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [How to Enable CGI in Windows 10](https://clipchamp.com/watch/kNR5EU1j3T7)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -23,16 +20,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create an Azure Virtual Machine Windows 10, 4 vCPUs
-Name: Vm-osticket
-Username: labuser (for example/whatever you chose)
-Password: osTicketPassword1! (for example/whatever you chose)
 
-- Install / Enable IIS in Windows WITH CGI
-World Wide Web Services -> Application Development Features -> [X] CGI
+- Enable IIS in Windows WITH CGI  (Video Demonstration) [How to Enable CGI in Windows 10](https://clipchamp.com/watch/kNR5EU1j3T7)
+- download and install PHP Manager for IIS, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe. and MySQL 5.5.62 
+- Open IIS as an Admin and Register PHP from within IIS
 
-- Item 3
-- Item 4
-- Item 5
+- Install osTicket v1.15.8, enable extentions and assign permissions
+- download and install HeidiSQL and Create a database called “osTicket”
+- Complete the installation of osTicket
 
 <h2>Installation Steps</h2>
 
