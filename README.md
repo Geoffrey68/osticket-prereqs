@@ -21,7 +21,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Create an Azure Virtual Machine Windows 10, 4 vCPUs
 
-- Enable IIS in Windows WITH CGI  (Video Demonstration) [How to Enable CGI in Windows 10](https://clipchamp.com/watch/kNR5EU1j3T7)
+- Enable IIS in Windows WITH CGI  (Video Demonstration) [How to Enable IIS with CGI in Windows 10](https://clipchamp.com/watch/Cn4p6OOpqIW)
 - download and install PHP Manager for IIS, Rewrite Module, PHP 7.3.8, VC_redist.x86.exe. and MySQL 5.5.62 
 - Open IIS as an Admin and Register PHP from within IIS
 
